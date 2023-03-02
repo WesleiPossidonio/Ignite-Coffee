@@ -5,12 +5,12 @@ import { PaymentMethodInput } from '../PaymentMethodInput'
 import { PaymentMethodOptionContainer } from './style'
 
 export const paymentMethods = {
-  credid: {
-    label: 'Cartão de Crédito',
+  credit: {
+    label: 'Cartão de crédito',
     icon: <CreditCard size={16} />,
   },
   debit: {
-    label: 'Cartão de Débito',
+    label: 'Cartão de débito',
     icon: <Bank size={16} />,
   },
   money: {

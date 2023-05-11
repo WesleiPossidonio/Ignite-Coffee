@@ -1,10 +1,16 @@
 import styled from 'styled-components'
 
+import BgIntro from '../../../../assets/BackgroundIntro.svg'
+
 export const ContainerHome = styled.section`
+  width: 100%;
   display: flex;
   align-items: center;
   justify-content: space-between;
   gap: 3.5rem;
+
+  background: ${() => `url(${BgIntro}) no-repeat center`};
+  background-size: cover;
 
   > img {
     width: min(35vw, 29.75rem);

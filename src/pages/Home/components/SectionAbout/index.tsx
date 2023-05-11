@@ -23,7 +23,7 @@ export const SectionAbout = () => {
   }, [])
 
   return (
-    <ContainerHome>
+    <ContainerHome className="container">
       <div data-aos="zoom-in" data-aos-easing="linear" data-aos-duration="1200">
         <TitleHome>
           Encontre o café perfeito <br /> para qualquer hora do dia

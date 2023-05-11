@@ -4,7 +4,7 @@ import { ContainerCards, TitleSection, ContainerSectionCoffee } from './style'
 
 export const SectionCoffee = () => {
   return (
-    <ContainerSectionCoffee>
+    <ContainerSectionCoffee className="container">
       <TitleSection>Nossos Cafés</TitleSection>
       <ContainerCards>
         {CoffeeList.map((coffee) => {

@@ -1,7 +1,7 @@
 import styled from 'styled-components'
 
 export const ContainerSectionCoffee = styled.section`
-  margin-top: 7rem;
+  margin-top: 1rem;
 `
 
 export const TitleSection = styled.h1`
@@ -20,5 +20,5 @@ export const ContainerCards = styled.div`
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(16rem, 1fr));
   gap: 2rem;
-  justify-content: center;
+  justify-items: center;
 `

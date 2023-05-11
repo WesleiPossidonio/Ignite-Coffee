@@ -22,7 +22,7 @@ export const ContainerHome = styled.section`
     flex-wrap: wrap-reverse;
 
     > img {
-      width: min(75vw, 29.75rem);
+      width: min(75vw, 30rem);
     }
   }
 

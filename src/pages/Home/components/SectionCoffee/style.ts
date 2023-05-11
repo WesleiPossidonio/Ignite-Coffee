@@ -1,7 +1,7 @@
 import styled from 'styled-components'
 
 export const ContainerSectionCoffee = styled.section`
-  margin-top: 6rem;
+  margin-top: 7rem;
 `
 
 export const TitleSection = styled.h1`

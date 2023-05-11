@@ -14,10 +14,6 @@ export const ContainerCoffeeCards = styled.div`
   background: ${(props) => props.theme['base-card']};
   border-radius: 6px 36px;
 
-  @media (max-width: 1400px) {
-    margin: 0 auto;
-  }
-
   @media (max-width: 855px) {
     margin-bottom: 2rem;
   }

@@ -3,7 +3,7 @@
 </h1>
 
 <h1 align="center">
-    <img src="https://imgbly.com/ib/8sGLCO4XRt.png" />
+    <img src="https://imgbly.com/ib/wL9FPSn8s5.png" />
 </h1>
 
 ## 💻 Sobre o projeto
